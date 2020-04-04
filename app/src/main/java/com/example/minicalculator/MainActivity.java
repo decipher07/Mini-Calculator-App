@@ -33,6 +33,7 @@ import android.widget.EditText;
         btnAdd = (Button)findViewById(R.id.butadd);
         btnSub = (Button)findViewById(R.id.butsub);
         btnDivide = (Button)findViewById(R.id.butdivide);
+        btnMul = (Button)findViewById(R.id.butmulti);
         btnDot = (Button)findViewById(R.id.butdot);
         btnClear = (Button)findViewById(R.id.butclear);
         btnEqual = (Button)findViewById(R.id.butequal);
